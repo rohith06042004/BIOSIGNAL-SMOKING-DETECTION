@@ -1,0 +1,41 @@
+{
+    "test_accuracy": 0.9922178983688354,
+    "test_loss": 0.015797782689332962,
+    "classification_report": {
+        "Emphysema": {
+            "precision": 0.9844155844155844,
+            "recall": 0.9895561357702349,
+            "f1-score": 0.9869791666666666,
+            "support": 383.0
+        },
+        "Pneumonia": {
+            "precision": 0.9955555555555555,
+            "recall": 0.9933481152993349,
+            "f1-score": 0.9944506104328524,
+            "support": 902.0
+        },
+        "accuracy": 0.9922178988326849,
+        "macro avg": {
+            "precision": 0.98998556998557,
+            "recall": 0.9914521255347849,
+            "f1-score": 0.9907148885497595,
+            "support": 1285.0
+        },
+        "weighted avg": {
+            "precision": 0.9922352373091673,
+            "recall": 0.9922178988326849,
+            "f1-score": 0.9922237131858103,
+            "support": 1285.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            379,
+            4
+        ],
+        [
+            6,
+            896
+        ]
+    ]
+}

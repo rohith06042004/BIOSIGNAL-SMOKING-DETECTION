@@ -1,0 +1,6 @@
+{
+    "test_images": 1284,
+    "test_loss": 0.015804853290319443,
+    "test_accuracy": 0.9922118186950684,
+    "duplicates_removed": 1
+}

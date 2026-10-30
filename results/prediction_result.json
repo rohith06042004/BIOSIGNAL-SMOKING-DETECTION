@@ -1,0 +1,6 @@
+{
+    "predicted_class": "Pneumonia",
+    "prediction_score": 0.9987936019897461,
+    "image_path": "/content/lung_pneumonia_emphysema/Chest X-Ray Images for 5-Class Lung Disease Classi/Pneumonia/Pneumonia-Bacterial_2340.jpg",
+    "gradcam_image": "/content/drive/MyDrive/Lung_Project_Dataset/gradcam_result.png"
+}
